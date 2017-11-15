@@ -1555,10 +1555,6 @@ util@0.10.3, util@~0.10.1:
   dependencies:
     inherits "2.0.1"
 
-vec2@^1.6.0:
-  version "1.6.0"
-  resolved "https://registry.yarnpkg.com/vec2/-/vec2-1.6.0.tgz#d2886b95fbbf638fa583aedf790ed0ee0df12185"
-
 vm-browserify@~0.0.1:
   version "0.0.4"
   resolved "https://registry.yarnpkg.com/vm-browserify/-/vm-browserify-0.0.4.tgz#5d7ea45bbef9e4a6ff65f95438e0a87c357d5a73"
